@@ -12,6 +12,7 @@ export default function Card() {
                     width={300}
                     height={400}
                     quality={20}
+                    priority
                 />
                 <h3 className="happy">Presióname</h3>
             </div>
