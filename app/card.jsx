@@ -14,10 +14,10 @@ export default function Card() {
                 <h3 className="back">Feliz día del maestro!</h3>
                 <p>Amor,</p>
                 <p>
-                    Como pueda sabes que encontraré la manera de demostrarte todo
+                    Como pueda, sabes que encontraré la manera de demostrarte todo
                     lo que te amo. Espero que disfrutes de tu día hoy con mi familia 
                     y del detalle que te preparamos. Se lo merece la mejor (y más hermosa) Maestra
-                    que existe. Te amo, Immer
+                    que existe. Gracias por todo lo que me haces sentir, contigo quiero estar. Te amo, Immer.
                 </p>
                 <p className="name">Alejandro</p>
             </div>
