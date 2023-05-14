@@ -1,9 +1,6 @@
 "use client"; 
-import Image from 'next/image'
 import Card from './card'
 import { useCountdown } from './countdown';
-
-let variable = false;
 
 
 export default function Home() {
