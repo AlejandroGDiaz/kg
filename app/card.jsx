@@ -7,14 +7,18 @@ export default function Card() {
             <div className="birthdayCard">
             <div className="cardFront">
                 <Image
-                    src="/us.jpg"
+                    src="/dragon.svg"
                     alt="Picture of the author"
-                    width={300}
-                    height={400}
-                    quality={20}
-                    priority
+                    width={200}
+                    height={200}
                 />
                 <h3 className="happy">Presióname</h3>
+                <Image
+                    src="/swords.svg"
+                    alt="Picture of the author"
+                    width={200}
+                    height={200}
+                />
             </div>
             <div className="cardInside">
                 <h3 className="back">Feliz día del maestro!</h3>
